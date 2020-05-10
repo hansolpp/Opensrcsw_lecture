@@ -1,6 +1,6 @@
 package homework2;
 
-public class Main {
+public class Leibniz {
 
 	public static void main(String[] args) {
 		double pi = 1, temp = 3, p = -1, num = 1;
